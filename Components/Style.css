@@ -1,0 +1,173 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.Add-button button{
+    
+    background-color: #164B60;
+    width: 127px;
+    height: 35px;
+    color: var(--Secondary-color);
+    top: 155px;
+    margin-left: 1100px;
+    padding: 5px 26px 10px 26px;
+    gap: 18px;
+    border-radius: 0%;
+
+}
+
+.No-members{
+    width: 626px;
+    height: 106px;
+    margin-left: 600px;
+    background-color: var(--Secondary-color);
+}
+.No-members h2{
+   padding-top: 40px;
+    text-align: center;
+  
+}
+
+.No-members .shadow{
+    height: 106px;
+}
+
+
+
+
+input{
+    width: 620px;
+    height: 61px;
+    top: 250px;
+    left: 327px;
+    border: transparent;
+}
+.shadow:hover{
+   
+    cursor: pointer;
+    border: 1 px solid blue;
+
+}
+
+.Add{
+    width: 150px;
+    height: 35px;
+    top: 583px;
+    left: 541px;
+    padding: 5x 26px 10px 26px;
+    gap: 18px;
+    background-color: #164B60;
+    border-radius: opx;
+}
+
+.image{
+    height: 180px;
+    border-radius: 50%;
+    border: 1px solid;
+    width: 180px;
+    margin-left: 550px;
+}
+
+img{
+    height: 180px;
+    border-radius: 50%;
+    width: 180px;
+   
+}
+
+.ipunt-container{
+
+ margin-left: 320px;
+    align-items: center;
+}
+.Add-Member-btn button{
+    width: 150px;
+    height: 40px;
+    top: 583px;
+    left: 541px;
+    padding: 10px 26px 10px 26px;
+    gap: 18px;
+    background-color: var(--Primary-color);
+    border-radius: 0%;
+    color: var(--Secondary-color);
+    margin-left: 550px;
+    
+}
+
+ .fa-solid{
+    width: 67px;
+    height: 90px;
+    top: 21px;
+    left: 118px;
+    font-size: 60px;
+    margin-left: 45px;
+}
+.pic-name p{
+    margin: 1%;
+    padding: px;
+}
+.pic-name{
+    display: flex;
+    align-items: center
+;
+    
+}
+.icons i{
+    font-size: 25px;
+     
+}
+.icons{
+    display: flex;
+    margin-left: 430px;
+  margin-top: -8%;
+   
+}
+.box-container{
+   
+    justify-content: space-between;
+    margin-left: 623px;
+    width: 600px;
+    display: inline-block;
+ 
+
+}
+
+.box-container .shadow{
+    height: 120px;
+}
+
+.pic-name img{
+    height: 70px;
+    width: 70px;
+    justify-content: space-between;
+}
+.pic-name span{
+font-weight: bold;
+}
+
+.imag img{
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+.content span{
+    font-weight: bold;
+}
+
+.imag__component img{
+    height: 60px;
+    width: 60px;
+}
+
+
+
+
+
+
+
+
+
